@@ -11,7 +11,7 @@ Transform your WooCommerce store with seamless WhatsApp integration! Allow custo
 - **Visit Plugin Site**: https://whatsapp.paradoxlab.top
 - **Live Demo**: https://demo-woocommerce-whatsapp-order-gateway.paradoxlab.top
 - **Documentation**: https://whatsapp.paradoxlab.top/docs
-- **Pro Version**: https://whatsapp.paradoxlab.top/#pricing
+- **Free/Pro Version**: https://whatsapp.paradoxlab.top/#pricing
 
 ## 🆓 Free vs Pro License
 
