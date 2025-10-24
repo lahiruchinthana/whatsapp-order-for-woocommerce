@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="/img/whatsapp-order-for-woocommerce.png" alt="WhatsApp Order for WooCommerce" />
+</div>
+
 Transform your WooCommerce store with seamless WhatsApp integration! Allow customers to complete orders directly through WhatsApp with our comprehensive payment gateway solution.
 
 ## 🔗 Plugin Links
