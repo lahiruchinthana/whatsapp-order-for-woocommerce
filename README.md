@@ -25,11 +25,13 @@ Transform your WooCommerce store with seamless WhatsApp integration! Allow custo
 | WhatsApp Payment Button | Basic WhatsApp payment button on checkout | ✅ | ✅ |
 | Custom Button Text | Customize WhatsApp button text | ✅ | ✅ |
 | Default Message Template | Basic message template for WhatsApp checkout messages | ✅ | ✅ |
-| Auto-Redirect Method | Choose between auto-redirect or showing WhatsApp button at checkout (default: display button) | ❌ | ✅ |
-| Enable for Shipping Methods | Allow WhatsApp payment for specific shipping methods (default: all shipping methods) | ❌ | ✅ |
+| Display WhatsApp Button in Thank You Page | Show WhatsApp order button on the thank you page after order completion | ✅ | ✅ |
+| All Shipping Methods | Enable WhatsApp payment for all available shipping methods | ✅ | ✅ |
+| Send Payment/Pay Now Link | Send a payment link in WhatsApp message. Customers can pay via available payment gateways | ✅ | ✅ |
+| Auto-Redirect Method | Auto-redirect at checkout page without thank you page | ❌ | ✅ |
+| Custom Shipping Methods | Allow WhatsApp payment for specific custom shipping methods | ❌ | ✅ |
 | Disable Other Payment Gateways | Hide all other payment gateways when WhatsApp payment is active (default: disabled) | ❌ | ✅ |
 | Accept Virtual Orders | Enable WhatsApp payment for orders containing only virtual/downloadable products (default: disabled) | ❌ | ✅ |
-| Send Payment/Pay Now Link | Send a payment link in WhatsApp message. Customers can pay via available payment gateways (default: enabled) | ❌ | ✅ |
 | Send View Order Link | Include a link to view order details on your website inside the WhatsApp message (default: disabled) | ❌ | ✅ |
 | Order Amount Restrictions | Set minimum and maximum order amounts for WhatsApp payment availability | ❌ | ✅ |
 | Category-Based Availability | Include or exclude specific product categories from WhatsApp payment | ❌ | ✅ |
