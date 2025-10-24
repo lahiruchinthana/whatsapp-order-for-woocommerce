@@ -1,6 +1,6 @@
 <br><br>
 <p align="center">
-  <img src="/img/whatsapp-order-for-woocommerce.png" width="300" alt="WhatsApp Order for WooCommerce" />
+  <img src="/img/whatsapp-order-for-woocommerce.png" alt="WhatsApp Order for WooCommerce" />
 </p>
 <br><br>
 
